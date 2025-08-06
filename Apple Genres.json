@@ -2,7 +2,7 @@
   {
     "id": "action-&-adventure-folder",
     "name": "Action & Adventure",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -19,7 +19,7 @@
   {
     "id": "comedy-folder",
     "name": "Comedy",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -36,7 +36,7 @@
   {
     "id": "crime-folder",
     "name": "Crime",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -53,7 +53,7 @@
   {
     "id": "documentary-folder",
     "name": "Documentary",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -70,7 +70,7 @@
   {
     "id": "drama-folder",
     "name": "Drama",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -87,7 +87,7 @@
   {
     "id": "fantasy-folder",
     "name": "Fantasy",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -104,7 +104,7 @@
   {
     "id": "horror-folder",
     "name": "Horror",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -121,7 +121,7 @@
   {
     "id": "romance-folder",
     "name": "Romance",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -138,7 +138,7 @@
   {
     "id": "sci-fi-folder",
     "name": "Sci-Fi",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -155,7 +155,7 @@
   {
     "id": "superhero-folder",
     "name": "Superhero",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -172,7 +172,7 @@
   {
     "id": "thriller-folder",
     "name": "Thriller",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -189,7 +189,7 @@
   {
     "id": "war-folder",
     "name": "War",
-    "category": "Apple Genres",
+    "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
