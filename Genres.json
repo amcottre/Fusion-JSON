@@ -101,7 +101,7 @@
     "textSize": "Large",
     "textWeight": "Bold"
   },
-  }
+  {
     "id": "sci-fi-folder",
     "name": "Sci-Fi",
     "category": "Genres",
@@ -152,4 +152,5 @@
     "textSize": "Large",
     "textWeight": "Bold"
   }
+
 ]
