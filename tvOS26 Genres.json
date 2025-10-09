@@ -7,7 +7,7 @@
     "displayMode": "Row",
     "layout": "Landscape",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://github.com/amcottre/Fusion-JSON/blob/f6b88d53e097b9aa3e4f977700a50534d3f17fde/tvOS26Genres/Action%20Adventures.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Action%20Adventures.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
