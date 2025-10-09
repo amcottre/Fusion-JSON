@@ -4,7 +4,7 @@
     "name": "Action & Adventure",
     "category": "Genres",
     "catalogIds": [],
-    "displayMode": "Row",
+    "displayMode": "Grid",
     "layout": "Landscape",
     "backgroundColor": "#000000",
     "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Action%20Adventures.png",
@@ -21,7 +21,7 @@
     "name": "Drama",
     "category": "Genres",
     "catalogIds": [],
-    "displayMode": "Row",
+    "displayMode": "Grid",
     "layout": "Landscape",
     "backgroundColor": "#000000",
     "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Drama.png",
@@ -34,3 +34,4 @@
     "textWeight": "Bold"
   }
 ]
+
