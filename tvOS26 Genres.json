@@ -1,0 +1,19 @@
+[
+  {
+    "id": "action-&-adventure-folder",
+    "name": "Action & Adventure",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Row",
+    "layout": "Landscape",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Action%20Adventures.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
