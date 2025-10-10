@@ -408,14 +408,14 @@
     "textWeight": "Bold"
   },
   {
-    "id": "music-duos-folder",
-    "name": "Music Duos",
+    "id": "music-docs-folder",
+    "name": "Music Docs",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/MusicDuos.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/MusicDocs.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -663,3 +663,4 @@
     "textWeight": "Bold"
   }
 ]
+
