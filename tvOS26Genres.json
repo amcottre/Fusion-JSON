@@ -409,7 +409,7 @@
   },
   {
     "id": "music-docs-folder",
-    "name": "Music Doc",
+    "name": "Music Docs",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
@@ -663,6 +663,7 @@
     "textWeight": "Bold"
   }
 ]
+
 
 
 
