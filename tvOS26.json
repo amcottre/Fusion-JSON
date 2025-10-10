@@ -1,0 +1,38 @@
+[
+  {
+    "id": "action-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Action.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "drama-folder",
+    "name": "Drama",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Drama.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+  
+]
+
