@@ -51,6 +51,40 @@
     "textWeight": "Bold"
   },
   {
+    "id": "alien-invaders-folder",
+    "name": "Alien Invaders",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/AlienInvaders.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "americana-folder",
+    "name": "Americana",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Americana.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
     "id": "animated-hijinks-folder",
     "name": "Animated Hijinks",
     "category": "Genres",
@@ -136,6 +170,23 @@
     "textWeight": "Bold"
   },
   {
+    "id": "cringeworthy-comedies-folder",
+    "name": "Cringeworthy Comedies",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/CringeworthyComedies.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
     "id": "cult-comedies-folder",
     "name": "Cult Comedies",
     "category": "Genres",
@@ -170,6 +221,40 @@
     "textWeight": "Bold"
   },
   {
+    "id": "dark-laughs-folder",
+    "name": "Dark Laughs",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/DarkLaughs.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "disaster-epics-folder",
+    "name": "Disaster Epics",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/DisasterEpics.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
     "id": "documentary-folder",
     "name": "Documentary",
     "category": "Genres",
@@ -195,6 +280,23 @@
     "layout": "Poster",
     "backgroundColor": "#000000",
     "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Drama.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "dystopian-futures-folder",
+    "name": "Dystopian Futures",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/DystopianFutures.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -263,6 +365,23 @@
     "layout": "Poster",
     "backgroundColor": "#000000",
     "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/FrontierGrit.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "gen-x-scares-folder",
+    "name": "Gen X Scares",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/GenXScares.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -663,6 +782,7 @@
     "textWeight": "Bold"
   }
 ]
+
 
 
 
