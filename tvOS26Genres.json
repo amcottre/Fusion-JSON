@@ -534,7 +534,7 @@
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/HeistsCapers.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/HighSeasHeroics.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": "techno-thrillers-folder",
-    "name": "Techno Thrillers",
+    "name": "Techno-Thrillers",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
@@ -1173,14 +1173,14 @@
     "textWeight": "Bold"
   },
   {
-    "id": "westerns-folder",
-    "name": "Westerns",
+    "id": "western-folder",
+    "name": "Western",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Westerns.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Western.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -1275,4 +1275,5 @@
     "textWeight": "Bold"
   }
 ]
+
 
