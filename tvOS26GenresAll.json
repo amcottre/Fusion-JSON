@@ -851,7 +851,7 @@
   },
   {
     "id": "on-the-run-folder",
-    "name": "On The Run",
+    "name": "On the Run",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Rows",
@@ -1309,3 +1309,4 @@
     "textWeight": "Bold"
   }
 ]
+
