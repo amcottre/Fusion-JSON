@@ -799,6 +799,23 @@
     "textWeight": "Bold"
   },
   {
+    "id": "mystery-folder",
+    "name": "Mystery",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Poster",
+    "backgroundColor": "#000000",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Mystery.png",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
     "id": "myths-&-legends-folder",
     "name": "Myths & Legends",
     "category": "Genres",
