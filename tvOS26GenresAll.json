@@ -891,7 +891,7 @@
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Psychological.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/PsychologicalTerror.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -959,7 +959,7 @@
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Rom-Coms.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/RomComs.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -993,7 +993,7 @@
     "displayMode": "Rows",
     "layout": "Poster",
     "backgroundColor": "#000000",
-    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/Sci-Fi.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/tvOS26Genres/SciFi.png",
     "logoURL": null,
     "mediaTypeFilter": "All Content",
     "iconName": "tv",
@@ -1292,6 +1292,3 @@
     "textWeight": "Bold"
   }
 ]
-
-
-
