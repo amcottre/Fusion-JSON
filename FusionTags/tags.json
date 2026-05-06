@@ -543,13 +543,6 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#4ECDC4",
-      "id": "gl",
-      "isExpanded": true,
-      "name": "Language"
     }
   ]
 }
