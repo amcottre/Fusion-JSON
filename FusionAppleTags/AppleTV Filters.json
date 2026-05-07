@@ -482,7 +482,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FF858283",
       "groupId": "gc",
       "id": "ch-71",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/7dot1.png",
@@ -495,7 +495,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
+      "borderColor": "#FF858283",
       "groupId": "gc",
       "id": "ch-51",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/5dot1.png",
