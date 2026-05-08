@@ -274,65 +274,13 @@
       "type": "filter"
     },
     {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dtsx",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtsx.png",
-      "isEnabled": true,
-      "name": "DTS:X",
-      "pattern": "(?i)\\bdts[-_.: ]?x\\b",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dtsma",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtshdma.png",
-      "isEnabled": true,
-      "name": "DTS-HD MA",
-      "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dtshd",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtshd.png",
-      "isEnabled": true,
-      "name": "DTS-HD",
-      "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
-      "id": "a-dts",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dts.png",
-      "isEnabled": true,
-      "name": "DTS",
-      "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
       "borderColor": "#d2d2d6",
       "groupId": "gv",
-      "id": "v-hdr10p",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10+.png",
+      "id": "v-hdr",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr.png",
       "isEnabled": false,
-      "name": "HDR10+ (Always)",
-      "pattern": "(?i)^(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
+      "name": "HDR (Always)",
+      "pattern": "(?i)^(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
       "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -341,11 +289,11 @@
     {
       "borderColor": "#d2d2d6",
       "groupId": "gv",
-      "id": "v-hdr10pND",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10+.png",
+      "id": "v-hdrND",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr.png",
       "isEnabled": true,
-      "name": "HDR10+ (WhenNoDolby)",
-      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
+      "name": "HDR (WhenNoDolby)",
+      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
       "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -380,11 +328,11 @@
     {
       "borderColor": "#d2d2d6",
       "groupId": "gv",
-      "id": "v-hdr",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr.png",
+      "id": "v-hdr10p",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10+.png",
       "isEnabled": false,
-      "name": "HDR (Always)",
-      "pattern": "(?i)^(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
+      "name": "HDR10+ (Always)",
+      "pattern": "(?i)^(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -393,11 +341,11 @@
     {
       "borderColor": "#d2d2d6",
       "groupId": "gv",
-      "id": "v-hdrND",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr.png",
+      "id": "v-hdr10pND",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10+.png",
       "isEnabled": true,
-      "name": "HDR (WhenNoDolby)",
-      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
+      "name": "HDR10+ (WhenNoDolby)",
+      "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
@@ -471,19 +419,6 @@
     {
       "borderColor": "#00000000",
       "groupId": "ga",
-      "id": "a-th",
-      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/truehd.png",
-      "isEnabled": true,
-      "name": "Dolby TrueHD",
-      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)",
-      "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "ga",
       "id": "a-dd",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/digital.png",
       "isEnabled": true,
@@ -508,9 +443,74 @@
       "type": "filter"
     },
     {
+      "borderColor": "#00000000",
+      "groupId": "ga",
+      "id": "a-th",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/truehd.png",
+      "isEnabled": true,
+      "name": "Dolby TrueHD",
+      "pattern": "(?i)^(?=.*\\btrue[\\s._-]?hd\\b)(?!.*\\batmos\\b)",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "ga",
+      "id": "a-dts",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dts.png",
+      "isEnabled": true,
+      "name": "DTS",
+      "pattern": "(?i)^(?=.*\\bDTS\\b)(?!.*\\bdts[-_. ]?(?:hd|ma|xll|x)\\b)",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "ga",
+      "id": "a-dtshd",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtshd.png",
+      "isEnabled": true,
+      "name": "DTS-HD",
+      "pattern": "(?i)^(?=.*\\bdts[-_. ]?hd\\b)(?!.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "ga",
+      "id": "a-dtsma",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtshdma.png",
+      "isEnabled": true,
+      "name": "DTS-HD MA",
+      "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#00000000",
+      "groupId": "ga",
+      "id": "a-dtsx",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/dtsx.png",
+      "isEnabled": true,
+      "name": "DTS:X",
+      "pattern": "(?i)\\bdts[-_.: ]?x\\b",
+      "tagColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
       "borderColor": "#d2d2d6",
-      "groupId": "gv",
-      "id": "v-seadex",
+      "groupId": "st",
+      "id": "st-seadex",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/seadex.png",
       "isEnabled": true,
       "name": "SeaDex",
@@ -553,7 +553,7 @@
       "color": "#27C04F",
       "id": "gq",
       "isExpanded": true,
-      "name": "Quality"
+      "name": "Media Source"
     },
     {
       "borderColor": "#FF858283",
@@ -567,7 +567,7 @@
       "color": "#FF6B6B",
       "id": "gv",
       "isExpanded": true,
-      "name": "Visual"
+      "name": "Dynamic Range"
     },
     {
       "borderColor": "#00000000",
@@ -581,7 +581,14 @@
       "color": "#FFD700",
       "id": "gc",
       "isExpanded": true,
-      "name": "Channels"
+      "name": "Audio Channels"
+    }
+    {
+      "borderColor": "#00000000",
+      "color": "#FFD700",
+      "id": "st",
+      "isExpanded": true,
+      "name": "Special Tags"
     }
   ]
 }
