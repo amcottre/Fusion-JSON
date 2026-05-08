@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-t1",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux-t1.png",
@@ -14,7 +14,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-t1",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray-t1.png",
@@ -27,7 +27,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-t1",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl-t1.png",
@@ -40,7 +40,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-t2",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux-t2.png",
@@ -53,7 +53,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-t2",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray-t2.png",
@@ -66,7 +66,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-t2",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl-t2.png",
@@ -79,7 +79,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-t3",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux-t3.png",
@@ -92,7 +92,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-t3",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray-t3.png",
@@ -105,7 +105,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-t3",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl-t3.png",
@@ -118,7 +118,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-t4",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux-t4.png",
@@ -131,7 +131,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-t4",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray-t4.png",
@@ -144,7 +144,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-t4",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl-t4.png",
@@ -157,7 +157,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-t5",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux-t5.png",
@@ -170,7 +170,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-t5",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray-t5.png",
@@ -183,7 +183,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-t5",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl-t5.png",
@@ -196,7 +196,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-rmx-u",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/remux.png",
@@ -209,7 +209,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-blu-u",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/bluray.png",
@@ -222,7 +222,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gq",
       "id": "q-web-u",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/webdl.png",
@@ -469,7 +469,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gv",
       "id": "v-seadex",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/seadex.png",
@@ -482,7 +482,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gc",
       "id": "ch-71",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/7dot1.png",
@@ -495,7 +495,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gc",
       "id": "ch-51",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/5dot1.png",
