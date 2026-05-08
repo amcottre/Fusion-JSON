@@ -339,14 +339,14 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gv",
       "id": "v-hdr10pND",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/HDR10Plus.png",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10+.png",
       "isEnabled": true,
       "name": "HDR10+ (no Dolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
-      "tagColor": "#33FFFFFF",
+      "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -365,14 +365,14 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gv",
       "id": "v-hdr10ND",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/HDR10.png",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr10.png",
       "isEnabled": true,
       "name": "HDR10 (no Dolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
-      "tagColor": "#33FFFFFF",
+      "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -391,14 +391,14 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF858283",
+      "borderColor": "#d2d2d6",
       "groupId": "gv",
       "id": "v-hdrND",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/HDR.png",
+      "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/hdr.png",
       "isEnabled": true,
       "name": "HDR (no Dolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
-      "tagColor": "#33FFFFFF",
+      "tagColor": "#d2d2d6",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
@@ -408,7 +408,7 @@
       "groupId": "gv",
       "id": "v-sdr",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/sdr.png",
-      "isEnabled": true,
+      "isEnabled": false,
       "name": "SDR",
       "pattern": "(?i)^(?=.*(?:\\.(?:mkv|mp4|avi|mov|m4v|ts)\\b|\\b(?:x264|x265|xvid|h[ ._-]?264|h[ ._-]?265|hevc|avc|web[-_. ]?dl|webrip|blu[-_. ]?ray|bd[-_. ]?remux|bdremux|remux|bdrip|bdmux|dvd|dvdrip|hdtv|uhd|4k)\\b))(?!.*(?:^|[^A-Za-z0-9])(?:dovi|dv|dolby[ ._-]?vision|hdr10(?:\\+|plus|p)?|hdr[ ._-]?10[ ._-]?(?:\\+|plus|p)?|hdr|hlg)(?=$|[^A-Za-z0-9])).*$",
       "tagColor": "#d2d2d6",
