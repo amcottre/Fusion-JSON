@@ -430,7 +430,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#d2d2d6",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dv",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/vision.png",
@@ -438,12 +438,12 @@
       "name": "Dolby Vision",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
       "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
     {
-      "borderColor": "#d2d2d6",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-at",
       "imageURL": "https://raw.githubusercontent.com/amcottre/Fusion-JSON/refs/heads/main/FusionAppleTags/atmos.png",
@@ -451,7 +451,7 @@
       "name": "Dolby Atmos",
       "pattern": "(?i)\\batmos\\b",
       "tagColor": "#00000000",
-      "tagStyle": "bordered",
+      "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
