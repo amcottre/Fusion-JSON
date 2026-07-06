@@ -308,7 +308,7 @@
       "name": "720p",
       "pattern": "(?i)\\b720[pi]?\\b",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -321,7 +321,7 @@
       "name": "HDR (Always)",
       "pattern": "(?i)^(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -334,7 +334,7 @@
       "name": "HDR (WhenNoDolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*\\bHDR\\b)(?!.*hdr[\\s._-]?10)",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -347,7 +347,7 @@
       "name": "HDR10 (Always)",
       "pattern": "(?i)^(?=.*hdr[\\s._-]?10)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -360,7 +360,7 @@
       "name": "HDR10 (WhenNoDolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10)(?!.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -373,7 +373,7 @@
       "name": "HDR10+ (Always)",
       "pattern": "(?i)^(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -386,7 +386,7 @@
       "name": "HDR10+ (WhenNoDolby)",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -399,7 +399,7 @@
       "name": "SDR",
       "pattern": "(?i)^(?=.*(?:\\.(?:mkv|mp4|avi|mov|m4v|ts)\\b|\\b(?:x264|x265|xvid|h[ ._-]?264|h[ ._-]?265|hevc|avc|web[-_. ]?dl|webrip|blu[-_. ]?ray|bd[-_. ]?remux|bdremux|remux|bdrip|bdmux|dvd|dvdrip|hdtv|uhd|4k)\\b))(?!.*(?:^|[^A-Za-z0-9])(?:dovi|dv|dolby[ ._-]?vision|hdr10(?:\\+|plus|p)?|hdr[ ._-]?10[ ._-]?(?:\\+|plus|p)?|hdr|hlg)(?=$|[^A-Za-z0-9])).*$",
       "tagColor": "#d2d2d6",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -438,7 +438,7 @@
       "name": "Dolby Vision",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
       "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
@@ -451,7 +451,7 @@
       "name": "Dolby Atmos",
       "pattern": "(?i)\\batmos\\b",
       "tagColor": "#00000000",
-      "tagStyle": "filled and bordered",
+      "tagStyle": "bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
